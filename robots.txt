@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://quantumqitten.xyz/sitemap.xml
