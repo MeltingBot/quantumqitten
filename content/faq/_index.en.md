@@ -53,4 +53,4 @@ A: Although it's not its primary function, many users report existential epiphan
 
 ---
 
-Do you have other questions? Don't hesitate to [contact us](/contact). Our quantum support experts are ready to answer your questions, whether they're asked or not!
+Do you have other questions? Don't hesitate to [contact us](contact). Our quantum support experts are ready to answer your questions, whether they're asked or not!
