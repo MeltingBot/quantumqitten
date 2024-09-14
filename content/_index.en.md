@@ -50,4 +50,4 @@ Are you passionate about IT, quantum physics, and cats? We're hiring! Check out 
 
 ---
 
-*Note: Quantum Qitten is not responsible for temporal paradoxes, alternative realities created, or quantum hairballs that may appear as a result of using our products. Please consult our [disclaimerdisclaimer) for more information.*
+*Note: Quantum Qitten is not responsible for temporal paradoxes, alternative realities created, or quantum hairballs that may appear as a result of using our products. Please consult our [disclaimer](disclaimer) for more information.*
