@@ -5,6 +5,7 @@ date: 2024-09-14
 draft: false
 tags: ["AI", "Monitoring", "Superposition", "White Cat"]
 type: "team"
+weight: 30
 ---
 
 ## Chief Artificial Intelligence of Quantum Qitten

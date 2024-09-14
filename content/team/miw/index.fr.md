@@ -5,6 +5,7 @@ date: 2024-09-14
 draft: false
 tags: [ "IA", "Supervision","Superposition","White Cat"]
 type: "team"
+weight: 30
 ---
 
 ## Intelligence Artificielle en Chef de Quantum Qitten

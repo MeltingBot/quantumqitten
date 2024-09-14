@@ -5,6 +5,7 @@ date: 2024-09-14
 draft: false
 tags: ["Quantique", "Schrödinger", "Supervision"]
 type: 'team'
+weight: 10
 ---
 
 ### Parcours académique et professionnel

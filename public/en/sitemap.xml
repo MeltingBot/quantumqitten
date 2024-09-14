@@ -3,6 +3,54 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
 
   <url>
+    <loc>http://localhost:1313/en/team/erwin/</loc>
+    <lastmod>2024-09-14T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link
+      rel="alternate"
+      hreflang="fr"
+      href="http://localhost:1313/team/erwin/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="en"
+      href="http://localhost:1313/en/team/erwin/"
+    />
+  </url>
+  <url>
+    <loc>http://localhost:1313/en/team/qbit/</loc>
+    <lastmod>2024-09-14T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link
+      rel="alternate"
+      hreflang="fr"
+      href="http://localhost:1313/team/qbit/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="en"
+      href="http://localhost:1313/en/team/qbit/"
+    />
+  </url>
+  <url>
+    <loc>http://localhost:1313/en/team/miw/</loc>
+    <lastmod>2024-09-14T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link
+      rel="alternate"
+      hreflang="fr"
+      href="http://localhost:1313/team/miw/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="en"
+      href="http://localhost:1313/en/team/miw/"
+    />
+  </url>
+  <url>
     <loc>http://localhost:1313/en/team/alice/</loc>
     <lastmod>2024-09-14T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
@@ -32,54 +80,6 @@
       rel="alternate"
       hreflang="en"
       href="http://localhost:1313/en/team/bob/"
-    />
-  </url>
-  <url>
-    <loc>http://localhost:1313/en/team/erwin/</loc>
-    <lastmod>2024-09-14T00:00:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-    <xhtml:link
-      rel="alternate"
-      hreflang="fr"
-      href="http://localhost:1313/team/erwin/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="en"
-      href="http://localhost:1313/en/team/erwin/"
-    />
-  </url>
-  <url>
-    <loc>http://localhost:1313/en/team/miw/</loc>
-    <lastmod>2024-09-14T00:00:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-    <xhtml:link
-      rel="alternate"
-      hreflang="fr"
-      href="http://localhost:1313/team/miw/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="en"
-      href="http://localhost:1313/en/team/miw/"
-    />
-  </url>
-  <url>
-    <loc>http://localhost:1313/en/team/qbit/</loc>
-    <lastmod>2024-09-14T00:00:00+00:00</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.5</priority>
-    <xhtml:link
-      rel="alternate"
-      hreflang="fr"
-      href="http://localhost:1313/team/qbit/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="en"
-      href="http://localhost:1313/en/team/qbit/"
     />
   </url>
   <url>

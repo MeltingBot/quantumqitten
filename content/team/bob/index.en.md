@@ -5,6 +5,7 @@ date: 2024-09-14
 draft: false
 tags: ["Finance", "Excel", "Crypto"]
 type: 'team'
+weight: 60
 ---
 
 ### Academic and Professional Background

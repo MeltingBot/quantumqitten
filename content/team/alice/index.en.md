@@ -5,6 +5,7 @@ date: 2024-09-14
 draft: false
 tags: ["Operations", "Quantuccino", "Meeting"]
 type: 'team'
+weight: 50
 ---
 
 ### Academic and Professional Background

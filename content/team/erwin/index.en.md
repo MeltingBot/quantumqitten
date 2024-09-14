@@ -5,6 +5,7 @@ date: 2024-09-14
 draft: false
 tags: ["Quantum", "Schrödinger", "Monitoring"]
 type: 'team'
+weight: 10
 ---
 
 ### Academic and Professional Background

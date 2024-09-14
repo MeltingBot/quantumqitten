@@ -4,7 +4,8 @@ description: "Biographie de Qbit - Chef Félin du Département R&D"
 date: 2024-09-14
 draft: false
 tags: ["R&D", "Croquettes","Dark Cat"]
-=type: 'team'
+type: 'team'
+weight: 20
 ---
 
 ## Co-fondateur félin et Chef du Département R&D de Quantum Qitten

@@ -5,6 +5,7 @@ date: 2024-09-14
 draft: false
 tags: ["R&D", "Kibbles", "Dark Cat"]
 type: 'team'
+weight: 20
 ---
 
 ## Feline Co-founder and Head of R&D Department at Quantum Kitten
