@@ -53,4 +53,4 @@ Vous êtes passionné par l'IT, la physique quantique et les chats ? Nous recrut
 
 ---
 
-*Note : Quantum Qitten n'est pas responsable des paradoxes temporels, des réalités alternatives créées, ou des boules de poils quantiques qui pourraient apparaître suite à l'utilisation de nos produits. Veuillez consulter notre [clause de non-responsabilitédisclaimer) pour plus d'informations.*
+*Note : Quantum Qitten n'est pas responsable des paradoxes temporels, des réalités alternatives créées, ou des boules de poils quantiques qui pourraient apparaître suite à l'utilisation de nos produits. Veuillez consulter notre [clause de non-responsabilité](disclaimer) pour plus d'informations.*
