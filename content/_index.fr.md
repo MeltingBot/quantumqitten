@@ -49,7 +49,7 @@ Entrez dans la Dimension Quantique
 
 ### 🌈 Rejoignez l'Aventure Quantique
 
-Vous êtes passionné par l'IT, la physique quantique et les chats ? Nous recrutons ! Consultez nos [offres d'emploicareers) et préparez-vous à exister professionnellement dans plusieurs états simultanés.
+Vous êtes passionné par l'IT, la physique quantique et les chats ? Nous recrutons ! Consultez nos [offres d'emploi](careers) et préparez-vous à exister professionnellement dans plusieurs états simultanés.
 
 ---
 

@@ -46,7 +46,7 @@ Enter the Quantum Dimension
 
 ### 🌈 Join the Quantum Adventure
 
-Are you passionate about IT, quantum physics, and cats? We're hiring! Check out our [job offerscareers) and prepare to exist professionally in multiple states simultaneously.
+Are you passionate about IT, quantum physics, and cats? We're hiring! Check out our [job offers](careers) and prepare to exist professionally in multiple states simultaneously.
 
 ---
 
