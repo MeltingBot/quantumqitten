@@ -40,10 +40,10 @@ Un monde où votre infrastructure existe dans un état de **performance optimale
 
 ### 🐱 Devenez Quantique Aujourd'hui !
 
-Prêt à faire le grand saut quantique ? Contactez-nous pour une démonstration qui défiera les lois de la physique !
+Prêt à faire le grand saut quantique ? Découvrez la supervision qui défiera les lois de la physique !
 
-{{< button href="/contact" target="_self" >}}
-Entrez dans la Dimension Quantique
+{{< button href="/pdf/Livre Blanc Supervision Quantique.pdf" target="_blank" >}}
+Télécharger notre livre blanc !
 {{< /button >}}
 
 

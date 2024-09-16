@@ -29,6 +29,16 @@
     </item>
     
     <item>
+      <title>MIW - IA</title>
+      <link>http://localhost:1313/team/miw/</link>
+      <pubDate>Sat, 14 Sep 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/team/miw/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/team/miw/feature.webp" />
+    </item>
+    
+    <item>
       <title>Alice - COO</title>
       <link>http://localhost:1313/team/alice/</link>
       <pubDate>Sat, 14 Sep 2024 00:00:00 +0000</pubDate>
@@ -46,16 +56,6 @@
       <guid>http://localhost:1313/team/bob/</guid>
       <description></description>
       <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/team/bob/feature.webp" />
-    </item>
-    
-    <item>
-      <title>MIW - IA</title>
-      <link>http://localhost:1313/team/miw/</link>
-      <pubDate>Sat, 14 Sep 2024 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/team/miw/</guid>
-      <description></description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/team/miw/feature.webp" />
     </item>
     
   </channel>
