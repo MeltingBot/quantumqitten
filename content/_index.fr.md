@@ -43,7 +43,7 @@ Un monde où votre infrastructure existe dans un état de **performance optimale
 Prêt à faire le grand saut quantique ? Découvrez la supervision qui défiera les lois de la physique !
 
 {{< button href="/pdf/Livre Blanc Supervision Quantique.pdf" target="_blank" >}}
-Télécharger notre livre blanc !
+Téléchargez notre livre blanc !
 {{< /button >}}
 
 
